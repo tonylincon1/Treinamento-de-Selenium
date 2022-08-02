@@ -1,0 +1,13 @@
+data/
+data_new/
+output/fasttext/
+output/mallet-2.0.8
+output/wiki
+.ipynb_checkpoints
+src/mlruns/*
+__pycache__
+.vscode
+/src/*.csv
+*.pbix
+/envselenium
+/.ipynb_checkpoints
