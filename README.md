@@ -1,0 +1,2 @@
+# Treinamento de Selenium Webdriver - Caso de uso de coleta de reclamações do reclameaqui
+Esse repositório possui um caso de uso de web scraping que foi utilizado como exemplo para um curso da utilização do Selenium Webdriver para coleta de dados da web.
